@@ -20,6 +20,6 @@ protected provideTranslations(): TranslationProvider {
 [ChatbotBase]: https://github.com/rekire/ChatbotBase
 [npm-image]: https://img.shields.io/npm/v/chatbotbase-konversationprovider.svg
 [npm-url]: https://npmjs.org/package/chatbotbase-konversationprovider
-[downloads-image]: https://img.shields.io/npm/dm/chatbotbase-alexaplatform.svg
+[downloads-image]: https://img.shields.io/npm/dm/chatbotbase-konversationprovider.svg
 [downloads-url]: https://npmjs.org/package/chatbotbase-konversationprovider
 [Konversation]: https://npmjs.org/package/konversation
