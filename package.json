@@ -1,6 +1,6 @@
 {
   "name": "chatbotbase-konversationprovider",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A translation provider for ChatbotBase allow you to provide diverse outputs with Konversation.",
   "main": "Chatbase.js",
   "types": "Chatbase.d.ts",
