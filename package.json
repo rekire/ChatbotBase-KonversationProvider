@@ -1,0 +1,28 @@
+{
+  "name": "chatbotbase-konversationprovider",
+  "version": "1.0.0",
+  "description": "A translation provider for ChatbotBase allow you to provide diverse outputs with Konversation.",
+  "main": "Chatbase.js",
+  "types": "Chatbase.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekire/ChatbotBase-KonversationProvider.git"
+  },
+  "keywords": [
+    "chatbotbase",
+    "konversation"
+  ],
+  "author": "René Kilczan <npm@reki.re>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rekire/ChatbotBase-KonversationProvider/issues"
+  },
+  "homepage": "https://github.com/rekire/ChatbotBase-KonversationProvider#readme",
+  "dependencies": {
+    "chatbotbase": "^1.0.0",
+    "konversation": "^1.0.0"
+  }
+}
